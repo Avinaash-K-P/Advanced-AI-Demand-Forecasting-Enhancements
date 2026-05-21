@@ -1,4 +1,4 @@
-Titel: Advanced AI Demand Forecasting Enhancements 
+Title: Advanced AI Demand Forecasting Enhancements 
 
 Backend: Python, Fast-api
 
@@ -8,7 +8,7 @@ Database: MySQL Workbench
 
 IDE: Visual Studio Code
 
-Backend packages installed:
+Backend packages:
 
 Fast-api,
 Uvicorn,
@@ -22,7 +22,7 @@ OpenPyXL,
 python-multipart,
 ReportLab
 
-Frontend packages installed:
+Frontend packages:
 
 React,
 Vite,
